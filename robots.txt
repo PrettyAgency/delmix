@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://delmix.com.au/sitemap.xml
